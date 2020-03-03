@@ -1,0 +1,1 @@
+web: java -jar target/androidserver-kw-1.0.jar
